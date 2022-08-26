@@ -14,7 +14,7 @@ I got the idea for this project because I both draw and paint. I wanted to share
 
     -   #### First Time Visitor Goals
 
-        1. As a First Times Visitor, I want to quickly understand and learn what the site is about and the reason for its origin.
+        1. As a First Time Visitor, I want to quickly understand and learn what the site is about and the reason for its origin.
         2. As a First Time Visitor, I want the site to be easily understood as well as to clearly understand the site's layout.
         3. As a First Time Visitor, I want to explore the content of the site and its functions and eventually further explore the creator's social media to learn more about them and the project.
 
@@ -101,7 +101,7 @@ Both W3C Markup Validator and W3C CSS Validator Services were used to ensure tha
 
 ### Known Bugs
 
--   
+-
 
 ## Deployment
 
@@ -129,7 +129,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media
 
--   The images on the home page are private pictures of art I have created myself. The remaining art on the art page is from Pinterest.
+-   The images displayed on the site are all from Pinterest.
 -   The amphora with the text was created by me in Procreate to further emphasise my association of 'vessel' with the ancient Greek amphora.
 -   
 
