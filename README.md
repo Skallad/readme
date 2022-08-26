@@ -43,13 +43,15 @@ I got the idea for this project because I both draw and paint. I wanted to share
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://onursoyar.github.io/Citat/index.html)
+    -   Home Page Wireframe - [View](https://skallad.github.io/vessel/index.html)
 
-    -   Quotes Page Wireframe - [View](https://onursoyar.github.io/Citat/quotes.html)
+    -   Submitted art Page Wireframe - [View](https://skallad.github.io/vessel/art.html)
 
-    -   Submit Page Wireframe - [View](https://onursoyar.github.io/Citat/join.html)
+    -   Submit Page Wireframe - [View](https://skallad.github.io/vessel/submit.html)
 
-    -   Balsamiq Wireframes Home-page, Quotes page and submit page - wireframe images
+    -   Balsamiq Wireframes Home-page, Quotes page and submit page - <img src="/workspace/readme/Blank diagram.png">
+        <img src="/workspace/readme/Blank diagram (1).png">
+        <img src="/workspace/readme/Blank diagram (2).png">
 
 
 ## Features
