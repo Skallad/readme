@@ -49,7 +49,8 @@ I got the idea for this project because I both draw and paint. I wanted to share
 
     -   Submit Page Wireframe - [View](https://skallad.github.io/vessel/submit.html)
 
-    -   Balsamiq Wireframes Home-page, Quotes page and submit page - <img src="/workspace/readme/Blank diagram.png">
+    -   Balsamiq Wireframes of home, art and submit page:
+        <img src="/workspace/readme/Blank diagram.png">
         <img src="/workspace/readme/Blank diagram (1).png">
         <img src="/workspace/readme/Blank diagram (2).png">
 
