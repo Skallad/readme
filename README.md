@@ -35,7 +35,7 @@ I got the idea for this project because I both draw and paint. I wanted to share
             - #889682
             - #fff
     -   #### Typography
-        -   The font for the logo is Vidaloka with a fallback of serif and the "<h2>" elements have the font  
+        -   The font for the logo is Vidaloka with a fallback of serif and the "<h2>" elements have the font Josefin Sans, fallback sans-serif and the remaining text is Abel, fallback font is sans-serif.
     -   #### Logotype
         -   The logotype, which is an amphora is a kind of vessel. The amphora was my initial association with the word and the word 'vessel' the function of the website in relationship to its content.
 
